@@ -6,3 +6,8 @@
 # Wyczyn dnia: wstanie z łoża.
 # Cecha charakteru: трудолюбивый.
 # <end>
+
+
+
+  
+  # Link do mojej strony https://kgora12.github.io/
