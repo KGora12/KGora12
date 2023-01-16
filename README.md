@@ -13,5 +13,5 @@
   # Link do mojej strony https://kgora12.github.io/
   
   
-  # Link do repo z forkiem: https://github.com/Kacper-KGora12/KGora12-Real-Time-Pear-Fruit-Detection-and-Counting-Using-YOLOv4-Models-and-Deep-SORT.git
-  # Link do arykułu z forka: https://www.mdpi.com/1424-8220/21/14/4803
+  # Link do repo z forkiem: https://github.com/KGora12/Neural-Networks-for-Object-Detection.git
+  # Link do arykułu z forka: https://paperswithcode.com/paper/real-time-pear-fruit-detection-and-counting#code
